@@ -29,10 +29,14 @@ This portfolio is built to showcase my:
 - Contact Form Integration 📬
 
 
-## 📸 Screenshots
+## 📸 Screenshots(FEW SHOTS)
 
-_Add a few screenshots of your portfolio here for better presentation._
-
+![Screenshot 2025-04-21 211402](https://github.com/user-attachments/assets/feb57ba8-2713-426a-be37-10526460e085)
+![Screenshot 2025-04-21 211421](https://github.com/user-attachments/assets/2aea6713-2c5a-4085-96eb-7b78c8cc464a)
+![Screenshot 2025-04-21 211432](https://github.com/user-attachments/assets/7df62502-afe5-42f0-951c-231fb8ca02f7)
+![image](https://github.com/user-attachments/assets/4205a34e-ab38-4519-8930-6332ecb426e8)
+![image](https://github.com/user-attachments/assets/be6bd4cc-ef12-4433-833c-8cb6ddc6485c)
+![image](https://github.com/user-attachments/assets/4dceabd0-7c21-4554-b8f9-74239e0537aa)
 
 
 
