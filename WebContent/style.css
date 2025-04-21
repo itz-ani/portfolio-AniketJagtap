@@ -1,0 +1,163 @@
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.header-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.header-content {
+  text-align: left;
+}
+
+.header-content h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
+.header-content p {
+  margin: 5px 0 0;
+  font-size: 16px;
+  color: #ccc;
+}
+
+.logo {
+  width: 80px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+.logo:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #0056b3, 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+    nav ul {
+      background-color: #333;
+      list-style-type: none;
+      padding: 20px 0;
+      text-align: center;
+     
+    }
+
+    nav ul li {
+      display: inline;
+      margin: 0 15px;
+    }
+
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+    }
+
+    nav ul li a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      text-align: center;
+      padding: 50px;
+      background-color: #fff;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #333;
+      color: white;
+    }
+    
+    .container {
+  width: 100%;
+  max-width: 400px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  animation: fadeInUp 0.8s ease-out both;
+  box-shadow: 0 10px 25px rgba(51, 51, 51, 0.15);
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+button {
+  background: #333;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+button:hover {
+  background: #1a1a1a; /* Slightly darker shade for hover */
+}
+
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Enhanced button hover effect */
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(51, 51, 51, 0.2); /* subtle lift effect */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+input::placeholder {
+  color: #888; /* Light gray placeholder text */
+  font-style: italic; /* Slightly italicized placeholder */
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+input:focus::placeholder {
+  color: transparent; /* Hide placeholder when focused */
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:focus {
+  border-color: #007bff; /* Blue border on focus */
+  box-shadow: 0 0 8px rgba(0, 123, 255, 0.3); /* Blue shadow on focus */
+}
+
