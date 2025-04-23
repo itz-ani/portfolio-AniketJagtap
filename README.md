@@ -38,7 +38,8 @@ This portfolio is built to showcase my:
 ![image](https://github.com/user-attachments/assets/be6bd4cc-ef12-4433-833c-8cb6ddc6485c)
 ![image](https://github.com/user-attachments/assets/4dceabd0-7c21-4554-b8f9-74239e0537aa)
 
-
+video link (google drive )
+https://drive.google.com/file/d/1-RVHZr6lVtx9pVgKHhICw94_OZCRRUbe/view?usp=drive_link
 
 > Thanks for visiting! Don’t forget to ⭐️ the repo if you like it!
 
