@@ -30,7 +30,7 @@ This portfolio is built to showcase my:
 
   
 ##video link (google drive )
-https://drive.google.com/file/d/1zKv1oZ2hy9MPQ4PipC5gPeygQNJ5Fmbq/view?usp=drivesdk
+https://drive.google.com/file/d/1-RVHZr6lVtx9pVgKHhICw94_OZCRRUbe/view?usp=drivesdk
 
 ## 📸 Screenshots(FEW SHOTS)
 
